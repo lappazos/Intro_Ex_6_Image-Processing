@@ -1,0 +1,32 @@
+lioraryepaz 206240996 Lior Paz
+
+=============================
+=  README for ex6: Image_Processing  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+first of all, the exercise was very challenging, and cool to go through all of
+its stages.
+
+in test46 & test_big46 i received an angle of 136, not 46 - i read in the
+forum its ok, hope it is indeed the case - it happend because also 136 is
+actually a very strong angle in these images.
+
+i put an extra effort in my efficiency this time, and i would like your feedback
+ on my running time. especially in functions - Otsu, apply filter, get_angle
+ (current_rank).
+
+ also, i used recursion in my downsample func - hope i used it correctly, and
+ again, i would like to get your feedback on that as well please.
+
+======================
+=  Special Comments  =
+======================
+i think it would be cool to  the exercise to apply different filters on the
+images - it would give us a better look on the power and beauty of what were
+doing.
+also, a short brief in one of the tirguls on image file types and their
+differences might  be super interesting.
